@@ -42,8 +42,7 @@ Here are some projects you can pin on GitHub for quick visibility:
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: **lobeserc@live.com**  
-- 💼 LinkedIn: [Your LinkedIn Profile Link](#)  
+- 📧 Email: **lobeserc@live.com**   
 - 🌐 GitHub: [https://github.com/Reflo12/](#)  
 
 ---
